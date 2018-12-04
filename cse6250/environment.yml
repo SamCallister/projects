@@ -1,0 +1,12 @@
+name: bigDataProject
+channels:
+  - pytorch
+dependencies:
+  - jupyter
+  - python=3.6
+  - pytorch>=0.4.1
+  - torchvision
+  - scikit-learn
+  - pandas
+  - matplotlib
+prefix: /anaconda3/envs/hw5
